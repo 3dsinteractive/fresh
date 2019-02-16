@@ -1,0 +1,16 @@
+hash: a9729ae129ab942957c7f0addd75db45041384f3c17cba4dba9f052d496df114
+updated: 2019-02-16T23:35:12.703174+07:00
+imports:
+- name: github.com/fsnotify/fsnotify
+  version: c2828203cd70a50dcccfb2761f8b1f8ceef9a8e9
+- name: github.com/mattn/go-colorable
+  version: efa589957cd060542a26d2dd7832fd6a6c6c3ade
+- name: github.com/mattn/go-isatty
+  version: 3fb116b820352b7f0c281308a4d6250c22d94e27
+- name: github.com/pilu/config
+  version: 3eb99e6c0b9a2dae0f56f05552c06ca5a643919b
+- name: golang.org/x/sys
+  version: d0b11bdaac8adb652bff00e49bcacf992835621a
+  subpackages:
+  - unix
+testImports: []
